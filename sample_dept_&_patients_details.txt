@@ -1,0 +1,11 @@
+Departments:
+
+Emergency, ICU, Radiology, Pharmacy, Labs, Ward A, Ward B, OT, Reception, Billing, MRI, CT Scan, ER2, ICU2, Storage, Cafeteria, Security, Admin, OPD, Isolation
+
+Corridors:
+
+Emergency-ICU-5, ICU-Radiology-3, Radiology-Pharmacy-4, Pharmacy-Labs-6, Labs-Ward A-2, Ward A-Ward B-3, Ward B-OT-5, OT-Reception-4, Reception-Billing-2, Billing-Emergency-7
+
+Patient details:
+
+101-Ahmed-25-ICU-2, 102-Sara-30-Emergency-1,103-Ali-40-Radiology-3,104-John-50-Pharmacy-4,105-Mike-35-Labs-2,106-Anna-28-ICU-1,107-David-60-Ward A-5,108-Lisa-22-Ward B-3,110-Noor-33-Reception-4,111-Zain-27-Billing-3,112-Khan-55-MRI-2,113-Ayesha-31-CT Scan-3,114-Tom-48-ER2-1,115-Harry-52-ICU2-2,116-Raj-39-Storage-4,117-Meena-29-Cafeteria-5,118-Sam-41-Security-3,119-Rita-36-Admin-2,120-Leo-26-OPD-4
